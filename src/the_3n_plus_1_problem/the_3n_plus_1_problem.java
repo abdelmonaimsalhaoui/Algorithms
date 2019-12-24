@@ -1,5 +1,6 @@
 /*
  * The 3*n+1 Problem
+ * Problem Description : https://onlinejudge.org/external/1/100.pdf
  * Written By : SALHAOUI Abdelmonaim
  * 2019-2020
  */
